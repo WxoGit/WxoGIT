@@ -15,6 +15,7 @@ I am comfortable working with various programming languages, but C# is my go-to.
 </div>
 
 ### 📈 Check out my most used programming languages:
+
 <img align="left" alt="Wxo's Top Languages" src="https://github-readme-stats-wxogits-projects.vercel.app/api/top-langs/?username=WxoGit&layout=donut-vertical&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 <div align="right">
@@ -40,4 +41,6 @@ I am comfortable working with various programming languages, but C# is my go-to.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem-vg53vqrhd-wxogits-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31dqmd7khofdciud5volnkyod6fm)
 </div>
