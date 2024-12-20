@@ -1,6 +1,6 @@
 <div align="center">
 
-## Greetings! 👋 I'm WxoGit
+## Greetings! 👋 I'm Wxo
 
 I have been programming for 4 years, and I mod things in Terraria, like VFX and Bosses!
 
