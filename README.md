@@ -2,7 +2,7 @@
 
 ## Greetings! 👋 I'm Wxo
 
-I have been programming for 4 years, and I mod things in Terraria, like VFX and Bosses!
+I have been programming for 4 years, primarily working on private projects. Additionally, I enjoy modding Terraria, focusing on visual effects and misc
 
 ### ⚒️ Languages ⚒️
 
@@ -23,7 +23,7 @@ I am comfortable working with various programming languages, but C# is my go-to.
 
 **Backend Development**: Building APIs and systems.
 
-**Web Development**: Crafting beautiful, responsive, and user-friendly websites.
+**Web Development**: Creation beautiful, responsive, and user-friendly websites.
 
 **Terraria Modding**: Creating custom VFX and bosses attack patterns for [TModLoader](https://store.steampowered.com/app/1281930/TModLoader/).
 
