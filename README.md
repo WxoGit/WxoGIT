@@ -1,12 +1,14 @@
 <div align="center">
 
-## Greetings! 👋 I'm Wxo
+# Greetings! 👋 I'm Wxo
 
-I have been programming for 4 years, primarily working on private projects. Additionally, I enjoy modding Terraria, focusing on visual effects and misc
+I'm a developer with 4 years of experience, primarily working on private projects. I also enjoy modding **Terraria**, focusing on visual effects and unique boss attack patterns.
 
-### ⚒️ Languages ⚒️
+---
 
-I am comfortable working with various programming languages, but C# is my go-to.
+### ⚒️ Languages I Use ⚒️
+
+I am proficient in various programming languages, but **C#** is my go-to.
 
 <br/>
 
@@ -37,10 +39,21 @@ I am comfortable working with various programming languages, but C# is my go-to.
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-#### Where do I code:
+#### These are my favorite IDEs:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-vg53vqrhd-wxogits-projects.vercel.app/api/spotify)](https://open.spotify.com/user/31dqmd7khofdciud5volnkyod6fm)
+---
+
+<div align="center">
+
+### 🎵 What I'm Listening To:
+
+[![Spotify](https://novatorem-pink-nine.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31dqmd7khofdciud5volnkyod6fm)
+
+---
+
+
+### 🌟 Thanks for stopping by! Have a good one! ✨
+
 </div>
